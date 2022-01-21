@@ -3,5 +3,5 @@
  
 </div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Exemplo" height="30" width="40" src="https://drive.google.com/file/d/1folF6ZuZ0gpDCZJI-ExSi9pHXTZ-Aq2z/view?usp=sharing" />
+    <img align="center" alt="Exemplo" height="766" width="1248" src="https://raw.githubusercontent.com/KermitTheSapo/clone-instagram-login/main/img/Screenshot_1.png" />
 </div>
